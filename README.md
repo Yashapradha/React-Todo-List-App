@@ -30,12 +30,12 @@ To set up the To-Do List app locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/Yashapradha/React-Todo-List-App.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd todo-list-app
+   cd React-Todo-List-App
    ```
 
 3. Install the dependencies:
