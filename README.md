@@ -8,7 +8,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 The To-Do List App is a user-friendly application built with React that helps users manage their tasks efficiently. With an intuitive interface, users can easily create, edit, and delete tasks, allowing them to stay organized and productive.
