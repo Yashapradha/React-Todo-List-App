@@ -1,6 +1,5 @@
 # To-Do List App
 
-![To-Do List App](https://via.placeholder.com/600x200.png?text=To-Do+List+App) <!-- Replace with an actual image of your app -->
 
 ## Table of Contents
 - [Description](#description)
